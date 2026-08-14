@@ -1,7 +1,9 @@
 # Crack the Vault
 
 **Category:** Cryptography
+
 **Difficulty:** Medium
+
 **Author:** Bilawal Ali
 
 ## Challenge Description
