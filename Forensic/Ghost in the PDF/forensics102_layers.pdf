@@ -1,0 +1,131 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+/Title (Forensics 102)
+/Author (AccessDenied)
+/Subject (S3VjaF9BdXJf)
+/Keywords (layers\054forensics\054ctf)
+/Creator (AccessDenied CTF Toolkit)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/Names 10 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 244
+>>
+stream
+GarWsb6l*?&-^Fo?ZDD^(mB'1g82!UF>r2W8kh08.l;.^T=7;[JJ&7L%el&^OR5p(/h18G(hO+IK1dU*"C>K]SWIW#H-c.RWh+_f.FJnE)/t;tE]*%GbT6HRV?];8q_.'Grc1[`$kZ#oTX)[`Q*&C"kZ!05@,Xb&nqYYUTHlu>ks/gX`n&u]^?oSBYfJK+nQ<EphUTs(\,TcP,SCd.a8h3X_KnGQ[Bj(23<S$KqIlUE"$o+JZN~>
+endstream
+endobj
+6 0 obj
+<<
+/F1 7 0 R
+/F2 8 0 R
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Type /EmbeddedFile
+/Length 117
+>>
+stream
+Case notes:
+Analyst observed unusual byte patterns near the xref table.
+Recovered fragment (hex-encoded):
+4d696c615f
+
+endstream
+endobj
+10 0 obj
+<<
+/EmbeddedFiles 11 0 R
+>>
+endobj
+11 0 obj
+<<
+/Names [ (case\137notes\056txt) <<
+/Type /Filespec
+/F (case\137notes\056txt)
+/EF <<
+/F 9 0 R
+>>
+>> ]
+>>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000199 00000 n 
+0000000258 00000 n 
+0000000321 00000 n 
+0000000510 00000 n 
+0000000845 00000 n 
+0000000886 00000 n 
+0000000993 00000 n 
+0000001105 00000 n 
+0000001293 00000 n 
+0000001337 00000 n 
+trailer
+<<
+/Size 12
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+1460
+%%EOF
+
+% ---------------------------------------------
+% Internal QA note - do not ship to client
+% fragment4(rot13): Xhpu_Nhe}
+% ---------------------------------------------
