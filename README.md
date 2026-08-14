@@ -337,7 +337,9 @@ BS Cyber Security
 Mehran University of Engineering and Technology (MUET)
 
 **LinkedIn:** [@Bilawal Ali](https://www.linkedin.com/in/bilawal-ali-0b0211245/) 
+
 **Porfolio:** [Bilawal Ali](https://bila-ali.github.io/)
+
 **GitHub:** [@Bilawal Ali](https://github.com/Bila-Ali) 
 
 ---
