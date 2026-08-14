@@ -336,7 +336,9 @@ The challenges were designed to encourage practical cybersecurity learning and g
 BS Cyber Security
 Mehran University of Engineering and Technology (MUET)
 
-**GitHub:** [@Bila-Ali](https://github.com/Bila-Ali)
+**LinkedIn:** [@Bilawal Ali](https://www.linkedin.com/in/bilawal-ali-0b0211245/) 
+**Porfolio:** [Bilawal Ali](https://bila-ali.github.io/)
+**GitHub:** [@Bilawal Ali](https://github.com/Bila-Ali) 
 
 ---
 
